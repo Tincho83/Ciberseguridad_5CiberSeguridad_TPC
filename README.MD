@@ -6,8 +6,8 @@
 Informe de Analisis Dinamico y Diseño de solución o propuesta de mejora para Ciberseguridad en CoderHouse. 
 
 ### Muestra
-[any.run](https://app.any.run/tasks/7d89fb80-cb56-48c4-84ce-8fd24df4a380)
-[virustotal](https://www.virustotal.com/gui/file/80239619c4ca44380c6269873a5b6b695585ccfcf278e0f2c72698658a3a6fd8/detection)
+[any.run](https://app.any.run/tasks/5afef971-0ddc-4f37-a3c9-1a083f2a3575)
+[virustotal](https://www.virustotal.com/gui/file/54489dfab5d689cd969e26e32285029095088c2673f96a9bc3df6ec14ca0a6b2)
 
 
 ### Situación de análisis
@@ -52,21 +52,20 @@ LexCorp solicita la elaboración de un informe de análisis del ataque, que tipo
     - [x]**Tipo de malware**.
 
 ## Realizar TPC:
-1.Interpretación del análisis, informe realizado en la pre entrega a modo de resumen
-    - [x]**En función de la situación ya analizada en la preentrega deberás identificar qué acciones llevadas por el área de soporte técnico son correctas o incorrectas y justifica cada una de ellas.**
+4. Interpretación del análisis, informe realizado en la pre entrega a modo de resumen
+    - [x]**En función de la situación ya analizada en la preentrega deberás identificar qué acciones llevadas por el área de soporte técnico son correctas o incorrectas y justifica cada una de ellas**.
     - [x]En este punto deberás recabar la información del informe e hipótesis realizada en la preentrega. Sobre el informe, completa la siguiente lista con los siguientes puntos y enlista las hipótesis trabajadas a modo de resumen:
             [x]**Nombre de la muestra**
             [x]**Fecha de análisis**
             [x]**OS utilizado para el análisis**
-            [x]**TIpo de malware identificado**
+            [x]**TIpo de malware identificado**.
 
-2.Solución Propuesta de mejora
+5. Solución Propuesta de mejora:
     - [x]Para evitar este tipo de incidentes a futuro y mejorar la postura de ciberseguridad de LexCorp. Esta propuesta debe tener presente al menos 4 (cuatro) puntos que respondan a:
-            [x]**Una implementación de solución.**
-            [x]**Revisión del perímetro con buenas prácticas, al menos 3 (tres).**
-            [x]**Implementación de programa/s.**
-            [x]**Ejecución de ese/esos programa/s.**
-
+            [x]**Una implementación de solución**
+            [x]**Revisión del perímetro con buenas prácticas, al menos 3 (tres)**
+            [x]**Implementación de programa/s**
+            [x]**Ejecución de ese/esos programa/s**
 
 Sugerencias: Activar comentarios en el archivo
 Formato: PPT, debe tener el nombre “PF+Apellido”.
