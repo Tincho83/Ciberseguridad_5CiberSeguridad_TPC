@@ -53,19 +53,19 @@ LexCorp solicita la elaboración de un informe de análisis del ataque, que tipo
 
 ## Realizar TPC:
 1.Interpretación del análisis, informe realizado en la pre entrega a modo de resumen
-    - [x]En función de la situación ya analizada en la preentrega deberás identificar qué acciones llevadas por el área de soporte técnico son correctas o incorrectas y justifica cada una de ellas.
+    - [x]**En función de la situación ya analizada en la preentrega deberás identificar qué acciones llevadas por el área de soporte técnico son correctas o incorrectas y justifica cada una de ellas.**
     - [x]En este punto deberás recabar la información del informe e hipótesis realizada en la preentrega. Sobre el informe, completa la siguiente lista con los siguientes puntos y enlista las hipótesis trabajadas a modo de resumen:
-    - [x]Nombre de la muestra
-    - [x]Fecha de análisis
-    - [x]OS utilizado para el análisis
-    - [x]TIpo de malware identificado
+            [x]**Nombre de la muestra**
+            [x]**Fecha de análisis**
+            [x]**OS utilizado para el análisis**
+            [x]**TIpo de malware identificado**
 
 2.Solución Propuesta de mejora
     - [x]Para evitar este tipo de incidentes a futuro y mejorar la postura de ciberseguridad de LexCorp. Esta propuesta debe tener presente al menos 4 (cuatro) puntos que respondan a:
-    - [x]Una implementación de solución.
-    - [x]Revisión del perímetro con buenas prácticas, al menos 3 (tres).
-    - [x]Implementación de programa/s.
-    - [x]Ejecución de ese/esos programa/s.
+            [x]**Una implementación de solución.**
+            [x]**Revisión del perímetro con buenas prácticas, al menos 3 (tres).**
+            [x]**Implementación de programa/s.**
+            [x]**Ejecución de ese/esos programa/s.**
 
 
 Sugerencias: Activar comentarios en el archivo
